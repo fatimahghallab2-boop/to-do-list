@@ -2,7 +2,8 @@
 
 A simple task management app built with HTML, CSS, and JavaScript. The UI is fully in Arabic with right-to-left (RTL) layout, designed for Arabic-speaking users.
 
-🔗 Live demo: [add your GitHub Pages link here]
+🔗 Live demo: [https://fatimahghallab2-boop.github.io/to-do-list/]
+
 
 ## Features
 ✅ Add a new task
